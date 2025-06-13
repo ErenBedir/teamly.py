@@ -25,8 +25,8 @@ channels = client.channels.get_team_channels(team_id="12345")
 print(channels.json())
 ```
 
-## Katkı Sağlama
-Bu SDK, geliştiriciler için açık kaynaklıdır. Pull request'ler memnuniyetle karşılanır.
+## Katkı 
+Bu SDK, geliştiriciler için açık kaynaklıdır. 
 
 ## Lisans
 MIT License
